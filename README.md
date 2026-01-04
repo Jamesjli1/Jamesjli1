@@ -1,22 +1,25 @@
 ## Hi, I’m James 👋
 
-I’m a 2nd-year **Computer Engineering** student who enjoys building systems across **software and hardware**.  
-I focus on understanding how things work end-to-end, from low-level logic to higher-level algorithms.
+I’m a 2nd-year **Computer Engineering** student building a strong foundation in **systems engineering** across software and hardware.  
+My focus is on designing, implementing, and understanding systems end-to-end from low-level logic and architecture to higher-level algorithms.
 
 ---
 
 ### 🔧 Currently Working On
-- 🐍 **Reinforcement Learning Snake Agent** (Python, Pygame)
-- 🤖 **Interactive Desk Robot** (Raspberry Pi, Python, OpenCV)
+- 🐍 **Reinforcement Learning Snake Agent**  
+  Training an autonomous agent to play Snake by designing the environment, state representation, and reward structure in Python.
+
+- 🤖 **Interactive Desk Robot**  
+  Building an interactive robot that reacts to vision and voice input by integrating Raspberry Pi hardware, OpenCV, and Python control logic.
 
 ---
 
 ### ✅ Finished
 - 🖥️ **General-Purpose Processor in VHDL**  
-  Designed and implemented a simple processor including datapath, control logic, and ISA. Verified using Quartus.
+  Designed and verified a custom processor by implementing the datapath, control unit, and instruction set in VHDL using Quartus.
 
 ---
 
-### 📫 Connect 
-- LinkedIn: *https://www.linkedin.com/in/james-li-8a5555381/*
-- Email: *Jamesli20061102@gmail.com*
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/james-li-8a5555381/
+- Email: Jamesli20061102@gmail.com
