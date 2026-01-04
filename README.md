@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I’m James 👋
 
-<!--
-**Jamesjli1/Jamesjli1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 2nd-year **Computer Engineering** student who enjoys building systems across **software and hardware**.  
+I focus on understanding how things work end-to-end, from low-level logic to higher-level algorithms.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently Working On
+- 🐍 **Reinforcement Learning Snake Agent** (Python, Pygame)
+- 🤖 **Interactive Desk Robot** (Raspberry Pi, Python, OpenCV)
+
+---
+
+### ✅ Finished
+- 🖥️ **General-Purpose Processor in VHDL**  
+  Designed and implemented a simple processor including datapath, control logic, and ISA. Verified using Quartus.
+
+---
+
+### 📫 Connect 
+- LinkedIn: *https://www.linkedin.com/in/james-li-8a5555381/*
+- Email: *Jamesli20061102@gmail.com*
