@@ -1,4 +1,5 @@
 ## Hi, I’m James 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Jamesjli1&color=blue&style=flat)
 
 - I’m a 2nd-year **Computer Engineering** student building a strong foundation in **systems engineering** across software and hardware.  
 - My focus is on designing, implementing, and understanding systems end-to-end from low-level logic and architecture to higher-level algorithms.
@@ -17,6 +18,10 @@
 ### ✅ Finished
 - 🖥️ **General-Purpose Processor in VHDL**  
   Designed and verified a custom processor by implementing the datapath, control unit, and instruction set in VHDL using Quartus.
+
+---
+
+![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jamesjli1&show_icons=true&hide_title=true&hide=issues,prs)
 
 ---
 
