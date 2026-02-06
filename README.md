@@ -1,8 +1,7 @@
 ## Hi, I’m James 👋
 
 - I’m a 2nd-year **Computer Engineering** student building a strong foundation in **systems engineering** across software and hardware.  
-- My focus is on designing, implementing, and understanding systems end-to-end from low-level logic and architecture to higher-level algorithms.
-
+- My focus right now is on building end-to-end full-stack systems while also developing hands-on skills with hardware and embedded systems.
 ---
 
 ### 📫 Connect
