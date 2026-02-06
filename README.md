@@ -5,21 +5,6 @@
 
 ---
 
-### 🔧 Currently Working On
-- 🐍 **Reinforcement Learning Snake Agent**  
-  Training an autonomous agent to play Snake by designing the environment, state representation, and reward structure in Python.
-
-- 🤖 **Interactive Desk Robot**  
-  Building an interactive robot that reacts to vision and voice input by integrating Raspberry Pi hardware, OpenCV, and Python control logic.
-
----
-
-### ✅ Finished
-- 🖥️ **General-Purpose Processor in VHDL**  
-  Designed and verified a custom processor by implementing the datapath, control unit, and instruction set in VHDL using Quartus.
-
----
-
 ### 📫 Connect
 - LinkedIn: https://www.linkedin.com/in/james-li-8a5555381/
 - Email: Jamesli20061102@gmail.com
