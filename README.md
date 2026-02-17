@@ -1,7 +1,7 @@
 ## Hi, I’m James 👋
 
 - I’m a 2nd-year **Computer Engineering** student building a strong foundation across software and hardware.  
-- Curent focus: full-stack + embedded systems
+- Current focus: full-stack + embedded systems
 ---
 
 ### 📫 Connect
